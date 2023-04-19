@@ -1,0 +1,66 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+.baner-lewy {
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    width:70%;
+    height: 70px;
+    float: left;
+}
+
+.baner-prawy {
+    background-color: #29434E;
+    color: white;
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+
+.list-polecamy {
+    background-color: #B0BEC5;
+    height: 320px;
+    overflow: scroll;
+    clear: both;
+}
+
+.list-fantastyczne {
+    background-color: #B0BEC5;
+    height: 320px;
+    overflow: scroll;
+}
+
+.film {
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+    float: left;
+}
+
+.stopka {
+    background-color: #29434E;
+    color: white;
+    clear: both;
+}
+
+h3 {
+    background-color: #546E7A;
+    color: white;
+    margin: 0px;
+}
+
+h4 { 
+    text-align: center;
+    margin: 0px;
+}
+
+
+.photo {
+    height: 150px;
+    width: 226px;
+    background-position-y: center;
+    clear: both;
+}
